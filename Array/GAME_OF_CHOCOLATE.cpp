@@ -32,6 +32,7 @@
 // Constraints:
 // 0 ≤ a, b ≤ 106
 
+//concept used : WYTOFF'S GAME
 
 //SOLUTION
 
