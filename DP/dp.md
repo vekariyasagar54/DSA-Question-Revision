@@ -13,4 +13,6 @@ Questions In DP :
 8) minimum jump to reach at the end  : https://practice.geeksforgeeks.org/batch/dsa-4/track/DSASP-DP/article/NzUyNg%3D%3D
 9) 0 - 1 knapsnake prblm : https://practice.geeksforgeeks.org/batch/dsa-4/track/DSASP-DP/article/NzUyNw%3D%3D (can be done with less space : O(w))
 10) optimal strategy for the game : https://practice.geeksforgeeks.org/batch/dsa-4/track/DSASP-DP/article/NzUyOA%3D%3D
-11) 
+11) egg dropping prblm : https://practice.geeksforgeeks.org/batch/dsa-4/track/DSASP-DP/article/NzUyOQ%3D%3D
+12) count BST's  : https://practice.geeksforgeeks.org/batch/dsa-4/track/DSASP-DP/article/NzUzMQ%3D%3D (using catalan number we can acheive same in linear time)
+13) 
