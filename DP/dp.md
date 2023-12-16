@@ -15,4 +15,6 @@ Questions In DP :
 10) optimal strategy for the game : https://practice.geeksforgeeks.org/batch/dsa-4/track/DSASP-DP/article/NzUyOA%3D%3D
 11) egg dropping prblm : https://practice.geeksforgeeks.org/batch/dsa-4/track/DSASP-DP/article/NzUyOQ%3D%3D
 12) count BST's  : https://practice.geeksforgeeks.org/batch/dsa-4/track/DSASP-DP/article/NzUzMQ%3D%3D (using catalan number we can acheive same in linear time)
-13) 
+13) maximum subarray with skipping at most one element : https://practice.geeksforgeeks.org/batch/dsa-4/track/DSASP-DP/problem/max-sum-subarray-by-removing-at-most-one-element
+14) matrix chain multiplication : https://practice.geeksforgeeks.org/batch/dsa-4/track/DSASP-DP/article/NzUzNA%3D%3D
+15)
