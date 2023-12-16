@@ -18,4 +18,4 @@ Questions In DP :
 13) maximum subarray with skipping at most one element : https://practice.geeksforgeeks.org/batch/dsa-4/track/DSASP-DP/problem/max-sum-subarray-by-removing-at-most-one-element
 14) matrix chain multiplication : https://practice.geeksforgeeks.org/batch/dsa-4/track/DSASP-DP/article/NzUzNA%3D%3D
 15) palindrome partioning : https://practice.geeksforgeeks.org/batch/dsa-4/track/DSASP-DP/article/NzUzNQ%3D%3D
-16) 
+16) Allocate minimum pages : https://practice.geeksforgeeks.org/batch/dsa-4/track/DSASP-DP/article/NzIyMw%3D%3D ( in binary search time is optimized to O(n*log(sum)) )
