@@ -7,3 +7,5 @@ when any range based algorithm follows the following property --> answer( l , r)
 ### for basic : https://practice.geeksforgeeks.org/batch/dsa-4/track/DSASP-Segment-Tree/article/MjQwNw%3D%3D
 ### range minimum Query : https://practice.geeksforgeeks.org/batch/dsa-4/track/DSASP-Segment-Tree/article/MjQxMA%3D%3D
 ### range based GCD ST  : https://practice.geeksforgeeks.org/batch/dsa-4/track/DSASP-Segment-Tree/problem/range-gcd-queries3654
+### Binary indexed Tree : https://practice.geeksforgeeks.org/batch/dsa-4/track/DSASP-Segment-Tree/article/NzY3OA%3D%3D
+### 
